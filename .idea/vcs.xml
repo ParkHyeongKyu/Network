@@ -2,6 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Net_TermProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Net_assn1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Net_assn2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Net_assn3" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Net_assn4" vcs="Git" />
